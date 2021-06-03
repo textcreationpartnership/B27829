@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paraphrase with annotations upon the harder passages of the English catechism</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27829</idno><idno type="EEBO-CITATION">99828607</idno>
+  <idno type="VID">173151</idno>
+  <idno type="EEBO-PROQUEST">2240883437</idno>
+  
+            <idno type="STC">Wing P342A</idno>
+            <idno type="STC">ESTC R216890</idno>
+            <idno type="PROQUEST">99828607</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828607e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paraphrase with annotations upon the harder passages of the English catechism</title>
+               </titleStmt>
+               <extent>[8], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Anno Domini, 1674. August the 13th.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: A short paraphrase, with annotations upon the harder places of the English catechisme.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catechisms, English --  Paraphrases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173151:1"/>
+            <p> A PARAPHRASE WITH ANNOTATIONS UPON THE Harder Passages of the ENGLISH CATECHISM.</p>
+            <figure/>
+            <p>
+               <hi>Anno Domini,</hi> 1674. <hi>August</hi> the 13<seg rend="sup">th.</seg>
+            </p>
+            <pb facs="tcp:173151:2"/>
+            <pb facs="tcp:173151:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173151:3"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:173151:3"/>
+            <head>THE PRAEFACE.</head>
+            <p>
+               <hi>ROm.</hi> 10. 17. <hi>Faith cometh by Hearing: and Hearing, by the word of God.</hi> That is, the Christi<g ref="char:EOLhyphen"/>an Faith <hi>(Joh.</hi> 14. 1.) cometh by Catechizing, and that there be per<g ref="char:EOLhyphen"/>petual Chatechizing, it is the plain will and word of God. Or thus, Al<g ref="char:EOLhyphen"/>though the knowledge of God the Crea<g ref="char:EOLhyphen"/>tor, may be gotten by the Creatures without Oral Instruction <hi>(Rom.</hi> 1. 19, 20. compared with <hi>Rom</hi> 10. 15, 16.) yet the Christian faith, or, The knowledge of God Redeemer, <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Joh.</hi> 14. 1.) cannot <hi>ordinarily</hi> be had without being instructed in it, either by Father, or Mother, or Nurse, or Teacher,
+<pb facs="tcp:173151:4"/> man or woman, or Master, or Dame, or some Catechist ordained, and by an account required of such Instruction. <hi>(Acts</hi> 8. 31. <hi>Ephes.</hi> 1. 13. <hi>&amp;</hi> 6. 4.) That therefore such Oral Instructions be Perpetual, and an account required of it, is the plain word of God, and his strict Will, as here <hi>Rom.</hi> 10. 17. so also <hi>Gen.</hi> 18. 19. <hi>Deut.</hi> 6. 7. compa<g ref="char:EOLhyphen"/>red with <hi>Deut.</hi> 4. 10. <hi>Ephes.</hi> 6. 4. and in other places.</p>
+            <p>Examples also hereof we have, as elsewhere, so especially in <hi>Acts</hi> 8. 37. compared with verses the 34, 35, 36, and 38.</p>
+            <p>And <hi>Gen.</hi> 5. 24. <hi>Enoch,</hi> in Hebrew, <hi>Chanoch,</hi> had his name from being Chatechized or Dedicated to God. So also Enoch the Kainite, <hi>Gen.</hi> 4. 17. For in the <hi>form of Godliness,</hi> The Worst men study to come as neere as they can to the Good.</p>
+            <p>Now the great use, which the first, and best <hi>Protestants,</hi> as well as the first,
+<pb facs="tcp:173151:4"/> and best, <hi>Christians</hi> made of these things, was this; They hence saw the incomparable benefit, of being born of Christian Parents▪ and of being bred<g ref="char:EOLhyphen"/>up under them. For thereby they saw all such in the sure way of being In<g ref="char:EOLhyphen"/>structed in the Christian faith, because most certainly All such <hi>were</hi> made, or <hi>might be made</hi> partakers of <hi>the hear<g ref="char:EOLhyphen"/>ing</hi> mentioned in this text, <hi>Rom.</hi> 10. 17. that is, not only of that <hi>short<g ref="char:EOLhyphen"/>er</hi> faith, <hi>Jesus, the Christ, the Son of God,</hi> Joh. 20. 31. Or, <hi>Father, Son, and Holy Ghost, and one only Ca<g ref="char:EOLhyphen"/>tholick Church;</hi> But of the <hi>larger</hi> all<g ref="char:EOLhyphen"/>so, namely <hi>The vow in Baptisme, The Creed, The Ten Words, The Lords Prayer,</hi> and <hi>The Doctrine of the Sacraments.</hi>
+            </p>
+            <p>This then being, if not the full and whole meaning of the Text, <hi>Faith by Hearing,</hi> yet for certain the greatest, and most necessary part of it; What remaines, but that all Fathers and
+<pb facs="tcp:173151:5"/> Mothers, and Nurses, and Masters, and Dames, and indeed All, that have the charge of others, be much in the religious practice of it? That is, that they be much, as the Scripture speaks <hi>(Deut.</hi> 6. 7.) in <hi>whetting</hi> the prin<g ref="char:EOLhyphen"/>ciples of Christian Religion upon all under their charge <hi>in private,</hi> and in desiring, and pressing their Ministers to do the like <hi>in publick</hi> also?</p>
+            <p>And moreover, by their constant pre<g ref="char:EOLhyphen"/>sence at Evening-songs, in honouring, and encouraging the whole business so much, as possibly they can?</p>
+            <p>That so, the Hearing of faith meant in the Apostle, being more Common and General, then it is; the faith it self may not be so Rare as it is: Which God grant for his mercies sake in Jesus Christ! For out of all doubt, one great Reason, why in these daies true faith is so much desired, is, Because this one Scripture-meanes of it, is so much neglected.</p>
+            <pb facs="tcp:173151:5"/>
+            <p> But the Lord make all, and every one of us to see, and acknowledge, and endeavour to reform our heinous Rech<g ref="char:EOLhyphen"/>lesness in this point, before it be quite too late: or, before the Faith of Christ be so exceedingly put to it, as in all likelyhood shortly it will be, if there be so much of <hi>some</hi> Hearing, and so none of <hi>this!</hi>
+            </p>
+            <pb facs="tcp:173151:6"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:173151:6"/>
+            <head>A short Paraphrase, with Annotations upon the harder places of the Eng<g ref="char:EOLhyphen"/>lish Catechisme.</head>
+            <div n="1" type="part">
+               <head>The First Partition.</head>
+               <head type="sub">The Title with the Vow in Baptisme.</head>
+               <p>A <hi>Catechisme, that is, to say, An Instruction, to be learned of every Child</hi> [Isa. 28 v. 9. 10. Whom shall he teach knowledge? and whom shall he make to understand Doctrine? <hi>them that are weaned from the milk,</hi> and drawn from the brests. For precept must be upon precept, pre<g ref="char:EOLhyphen"/>cept upon precept; line upon line, line upon line; here a little, and there a little.] <hi>before He be brought to be Confirmed by the Bishop</hi> [that is, before that with his own mouth, and in his own person he enter into Covenant with his God. (2 <hi>Kings</hi> 23. 3. <hi>And the King stood by a pillar and made a Covenant before the Lord—and all the People stood to the Covenant.</hi> Isa. 44. 5. <hi>and another shall sub<g ref="char:EOLhyphen"/>scribe with his hand unto the Lord.)</hi> Or, before that in his own person, and with his own mouth, he take upon himself his Baptismal vow.]</p>
+               <p>
+                  <label>Question.</label> What is your Name?</p>
+               <p>
+                  <label>Answer.</label> N. or M.</p>
+               <p>
+                  <label>Q.</label> Who gave you this Name</p>
+               <pb n="2" facs="tcp:173151:7"/>
+               <p>
+                  <label>A.</label>
+                  <hi>My God-fathers and God-mothers in my Bap<g ref="char:EOLhyphen"/>tisme, wherein</hi> [not whereby, but by vertue of the Institution, and Word and Gods promise in the New Covenant, as mighty as God Himself] <hi>I was made a member of Christ</hi> [not Natural, but My<g ref="char:EOLhyphen"/>stical, that is, of the Church of Christ, Act. 9. 4 <hi>Why persecuest thou me?</hi> that is, my Church? 1. Cor. 12. v. 12. <hi>So also is Christ,</hi> that is the Church of Christ.] <hi>The Child of God</hi> [by Adoption and Grace.] <hi>and an Inheritour of the Kingdome of Hea<g ref="char:EOLhyphen"/>ven▪</hi> [not Absolutely and Irrespectively, but only upon Condition of doing my endeavour to per<g ref="char:EOLhyphen"/>form, keep, observe, and do my Baptismal vow, which follows presently after.] upon those words of S. <hi>Paul, Rom.</hi> 8. 17. <hi>See,</hi> saith a good Commen<g ref="char:EOLhyphen"/>tator, <hi>with what lovely Titles the Apostle doth set forth the Dignity of the Baptized, that they are the Children of God, and Heirs of God, and Joint heirs with Christ, and therefore his Bre<g ref="char:EOLhyphen"/>thren.]</hi>
+               </p>
+               <p>
+                  <label>Q.</label> What did your God-fathers and God-mothers then for you?</p>
+               <p>
+                  <label>A.</label>
+                  <hi>They did promise and vow three things in my Name.</hi> [That is, standing in my steed.] <hi>First, that I should forsake or renounce</hi> [that is, vow and pro<g ref="char:EOLhyphen"/>mise to forsake or renounce] <hi>the Devil and all his works, the Pomps and Vanities of this wicked world, and all the sinfull lusts of the flesh. Secondly that I should believe</hi> [that is, promise to believe] <hi>all the Articles of the Christian faith. Thirdly that I should keep</hi> [that is, vow to keep] <hi>Gods holy will and Com<g ref="char:EOLhyphen"/>mandments, and walk in the same all the Daies of my life</hi> [that is, promise to walk. The <hi>thing</hi> for the Solemne and Publick <hi>vow of the thing,</hi> by a Me<g ref="char:EOLhyphen"/>tonymie
+<pb n="3" facs="tcp:173151:7"/> of the subject for the Adjunct. As 2 <hi>Tim.</hi> 1. 9.—grace which was <hi>given</hi> us in Christ Jesus, be<g ref="char:EOLhyphen"/>fore the world began; that is promised and decreed, to be given. <hi>Jerem.</hi> 1. 10. See, I have this day set thee over the Nations and over the Kingdoms, <hi>to root-out, and to pull-down</hi> that is, to tell them afore<g ref="char:EOLhyphen"/>hand, that, unless they repent in time, <hi>rooted▪out and pulled-down</hi> for certain they sh<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be. And no otherwise here; <hi>Renouncing</hi> for the solemn and open vow to Renounce: <hi>To believe,</hi> for the solemn and open vow to Believe: <hi>To Keep and Walk,</hi> for the solemn and open vow to Keep and Walk. And that this is the true, and designed sense of the Church, it shall appear presently after, to wit, from the Answer to the fourth Question concerning Bap<g ref="char:EOLhyphen"/>tisme (where also some things about the Office of God-fathers and God-mothers, deserving rather to be catcht-after, then declined.) But now, that, <hi>in this sense,</hi> Infants when grown-up, shall Renounce, Believe, and Keep, safely enough their Sureties at the Font may undertake, who presently doth not percieve? For these things <hi>in very deed,</hi> at least <hi>in some measure,</hi> they doe doe, when being become Catechumeni, they do answer to the next following Question, <hi>Dost thou not think—? Yes verily: And by Gods help so I will:—</hi>But in a <hi>very spe<g ref="char:EOLhyphen"/>cial, signal, manner,</hi> do it, they do, when, before the Bishop and his Archdeacons or other Pres<g ref="char:EOLhyphen"/>byters round about him (so venerable a Presence) Every one with a lowd voice Answers for himself, <hi>I do,</hi> to that grave Question, <hi>do ye here in the presence of God and of this Congregation renew?—</hi>And <hi>And every one,</hi> saith the Book, <hi>shall Answer, I do.</hi>
+               </p>
+               <div type="section">
+                  <pb n="4" facs="tcp:173151:8"/>
+                  <head>A little Item.</head>
+                  <p>Were it not for the Comprehensiveness of Tropes; the Scripture and Church had never uttered, their High and Heavenly Notions, in so few words. No marvel therefore though their most divine Theologie hath seemed, and doth seem Vain, and Lying, and Nonsense, to all them, who by thinking, have not been able to reach the very things, and in their mind to comprehend them.]</p>
+                  <p>
+                     <label>Q.</label>
+                     <hi>Doest thou not think, that thou art bound to believe and to do, as they have promised for thee?</hi>
+                  </p>
+                  <p>
+                     <label>A.</label>
+                     <hi>Yes verily:</hi> [See and Compare the Apologe<g ref="char:EOLhyphen"/>tical enarration of the Answer to the 4th Questi<g ref="char:EOLhyphen"/>on about Baptisme, a little after] <hi>And by Gods help, so I will: And I heartily thank our Heavenly Father, that he hath called me to this State of Sal<g ref="char:EOLhyphen"/>vation through Jesus Christ our Saviour. And I pray—</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Partition.</head>
+               <head type="sub">The Creed with the short summary of it.</head>
+               <p>
+                  <label>Catechist.</label> Rehearse the Articles of thy beliefe.</p>
+               <p>
+                  <label>A.</label>
+                  <hi>I believe in God the Father—</hi>
+               </p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What doest thou chiefly learn in these Articles of thy Belief?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>First I learn to believe in God the Father, who hath made me, and all the World.</hi>
+               </p>
+               <p>
+                  <hi>Secondly in God the Son, who hath redeemed me, and all mankind.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, in God the Holy Ghost, who Sanctifieth me</hi> [not, <hi>hath</hi> Sanctified. For his great work is
+<pb n="5" facs="tcp:173151:8"/> not past, but is yet in doing.] <hi>And all the Elect People of God</hi> [that is, The Holy Catholique Church, Elected doubtless full and whole with that Election, which is mentioned, <hi>Psal.</hi> 65. 4. Blessed is the man whom thou <hi>choosest,</hi> and causest to approach unto thee, that He may dwell in thy Courts: We shall be satisfied with the goodness of thy House, even of thy Holy Temple.]</p>
+            </div>
+            <div n="3" type="part">
+               <head>The Third Partition.</head>
+               <head type="sub">The decalogue with duties towards God and our Neighbours.</head>
+               <p>
+                  <label>Q.</label>
+                  <hi>You said that your God-fathers and God<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>thers did promise for you, that you should keep Gods Commandements. Tell me how many there be?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Ten.</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>Which be they?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>The same, which God spake in the</hi> 20th <hi>Chapter of</hi> Exodus, <hi>saying: I am the Lord thy God, who brought thee out of the Land of</hi> Egypt, <hi>out of the House of Bondage.</hi> [That<hi>'s</hi> the Preface or Intro<g ref="char:EOLhyphen"/>duction.</p>
+               <list>
+                  <item>I. [That is, the First Commandement.] <hi>Thou shalt have none other Gods but me.</hi>
+                  </item>
+                  <item>II. [That is, the Second Commandement.]</item>
+               </list>
+               <p>
+                  <hi>Thou shalt not make to thy self any graven,</hi> &amp;c.—</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What doest thou chiefly learn by these Com<g ref="char:EOLhyphen"/>mandements?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>I learn two things: My duty towards God</hi> [in the Four first Commandements, or, in the Commandements of the first Table] <hi>and my duty towards my Neighbour,</hi> [in the Six last, or, in the
+<pb n="6" facs="tcp:173151:9"/> Commandements of the second Table. The Ten words, in <hi>two Tables</hi> of Stone. <hi>Deut.</hi> 4. 13.]</p>
+               <p>
+                  <label>Q</label>
+                  <hi>What is thy duty towards God?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>My duty towards God is, to Believe in Him, to Fear Him, and to Love—and to Serve Him truly All the daies of my life.</hi> [Which words seem to be the Mystical and highest sense of the Fourth Com<g ref="char:EOLhyphen"/>mandement, and may not altogether unfitly be called <hi>The Sanctification Sabbath:</hi> To the right keeping and sanctifying whereof, the two other Sabbaths seem to have been instituted; to wit, <hi>The Creation-Sabbath,</hi> or, the Sabbath properly so called, or, Sater-day; and <hi>The Redemption Sabbath,</hi> or, the Lord's-day, or, the First day of the week.]</p>
+            </div>
+            <div n="4" type="part">
+               <head>The Fourth Partition.</head>
+               <head type="sub">The Lord's Prayer, with the short mean<g ref="char:EOLhyphen"/>ing of it.</head>
+               <p>
+                  <label>Catechist.</label> My good child know this, that thou—</p>
+               <p>
+                  <label>Answ.</label> Our Father, which art in Heaven—</p>
+               <p>
+                  <label>Quest.</label>
+                  <hi>What desirest thou of God in this Prayer?</hi>
+               </p>
+               <p>
+                  <label>Answ.</label>
+                  <hi>I desire my Lord God our Hevenly Fa<g ref="char:EOLhyphen"/>ther, who is the giver of all—And this I trust he will do of his mercy and goodness, through our Lord Jesus Christ. And therefore I say Amen, So be it.</hi> [By these last words who does not presently con<g ref="char:EOLhyphen"/>ceive, (that which doubtless is the very truth) that the Church meant, that <hi>Amen</hi> ought alwaies to be here said by the Minister as well as People, and that it ought to be accounted a true part of the Lord's Prayer?]</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="7" facs="tcp:173151:9"/>
+               <head>The Fifth Partition.</head>
+               <head type="sub">The Doctrine of the Sacraments.</head>
+               <p>
+                  <label>Quest.</label>
+                  <hi>How many Sacraments hath Christ ordain<g ref="char:EOLhyphen"/>ed in his Church?</hi>
+               </p>
+               <p>
+                  <label>Answ.</label>
+                  <hi>Two only as generally necessary to Salvati<g ref="char:EOLhyphen"/>on.</hi> [That is, those things, in the devout, frequent, and constant use whereof, the generality of men obtain Salvation, and no otherwise,] <hi>that is to say, Baptisme, and the Supper of the Lord.</hi>
+               </p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What meanest thou by this word, Sacrament?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>I mean an outward and visible Sign, of an In<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ard and Spiritual Grace, given</hi> [or promised] <hi>unto us; Ordained by Christ Himself, as a Means where<g ref="char:EOLhyphen"/>by we recieve the same, and a Pledg to assure us thereof.</hi> [Here note we well, that to the truth and our Church, All the Ordinances of Jesus Christ, Sacraments, Prayers, Fastings, Alms, <hi>&amp;c.</hi> are not only Duties and Pledges, but also, Means and Effectual Instruments for obtaining the Ends pro<g ref="char:EOLhyphen"/>posed and the Graces promised.]</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>How many parts are there in a Sacrament?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Two: the outward Visible Sign and the inward Spiritual Grace.</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is the outward visible signe, or form in Baptism?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Water; wherein the Person is Baptized, in the Name <hi>[or into the Name]</hi> of the Father, and of the Son, and of the Holy Ghost.</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is the inward and Spiritual Grace?</hi>
+               </p>
+               <p>A. <hi>A death unto sin, and a New Birth unto Righte<g ref="char:EOLhyphen"/>ousness</hi> [that is, a solemn and open Vow (by inward Grace) to dye unto Sin, and to live unto Righte<g ref="char:EOLhyphen"/>ousness.] <hi>for being by nature born in sin, and the chil<g ref="char:EOLhyphen"/>dren</hi>
+                  <pb n="8" facs="tcp:173151:10"/>
+                  <hi>of wrath, we are hereby</hi> [that is, Not by the outward work of being Baptized, but by the death unto sin, and new birth unto righteousness, as but now these things have been explained; that is, by the Vow in Baptism; for the Stipulation or An<g ref="char:EOLhyphen"/>swere of a good conscience towards God, 1 <hi>Pet.</hi> 3. 21. seems to be nothing else but the Vow in Bap<g ref="char:EOLhyphen"/>tism.] <hi>made children of Grace.</hi>
+               </p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is required of Persons to be Baptized?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>Repentance,</hi> [that is, the solemn and open Vow of Repentance] <hi>whereby they forsake</hi> [that is, Vow to forsake] <hi>sin: and Faith,</hi> [that is, the open and solemn undertaking of faith] <hi>whereby they stedfastly believe</hi> [that is, Vow firmly to believe] <hi>the pro<g ref="char:EOLhyphen"/>mises of God made to them in that Sacrament.</hi> [that is, in the office of this Sacrament expresly propo<g ref="char:EOLhyphen"/>sed, as long ago, in very deed made by God.]</p>
+               <p>
+                  <label>Q</label>
+                  <hi>Why then are Infants baptized, when by reason of their tender age, they cannot perform them?</hi> [that is, cannot themselves solemnly and openly Vow and promise these things?]</p>
+               <p>
+                  <label>A.</label>
+                  <hi>Because</hi> [the plain truth is] <hi>They promise them both by their Sureties: which promise, when they come to age, themselves are bound to perform.</hi> [So that this one place may sufficiently convince or de<g ref="char:EOLhyphen"/>monstrate, that the Church here and in the Bap<g ref="char:EOLhyphen"/>tismal Vow, meant, by Renouncing, Believing, Repenting and Keeping the Commandements, not so much the Things themselves, as the Vowes, Purposes and Promises of the things, solemnly and openly undertaken. But now, that, in this sense, the Infants, when come to age, shall Renounce, Be<g ref="char:EOLhyphen"/>lieve, Reform and Keep, who sees not but that their sureties may safely enough undertake? Nor truly
+<pb n="9" facs="tcp:173151:10"/> is this New, or Strange, or besides the use of Scri<g ref="char:EOLhyphen"/>pture, and of Common life, That Little-ones, and meer Infants, as yet knowing no such thing, nor indeed able to know it, Parents yet and other Friends should firmly, and according to law bind to those things, which are good and profitable for them. For the use of Scripture is clear, as else<g ref="char:EOLhyphen"/>where, so especially in, <hi>Deut.</hi> 29. 11. Where <hi>Little<g ref="char:EOLhyphen"/>ones</hi> in their Mothers arms <hi>do enter, or pass into Co<g ref="char:EOLhyphen"/>venant</hi> with the Lord their God. And for the use of Common life, What more common, then that Parents taking care for the good of their Chidren, do provide that they be written and taken in<g ref="char:EOLhyphen"/>to the Possession, or true right, at least, of profitable Livings and Farms? Not absolutely, but upon condition of yielding and paying un<g ref="char:EOLhyphen"/>to such or such a Lord, such or such yearely Pensions or Services? And so in very deed if they do not, that they suffer the wretched loss of so good Provisions? Just so (every one may see) is it in this matter; Infants by their Parents and other friends are in Baptism dedicated to God and Religion; are tyed to make good their Baptismal Vow; and this unless they shall have done, must loose the In<g ref="char:EOLhyphen"/>heritance offered and promised by Christ; of Grace, here; as hereafter, of Glory, <hi>&amp;c.</hi>
+               </p>
+               <p>Moreover, whereas many do <hi>slinck</hi> and <hi>shife</hi> themselves from that great charity of undertaking for Children at the Font, upon this thought chief<g ref="char:EOLhyphen"/>ly, that they fear they cannot safely enough under<g ref="char:EOLhyphen"/>take according to the Charge at the end of the Of<g ref="char:EOLhyphen"/>fice; This Errour sure they will no longer erre, if so be they will sincerely and simply consider, what the thing it self suggests unto us.</p>
+               <pb n="10" facs="tcp:173151:11"/>
+               <p> For who sees not, that all Believers of the Uni<g ref="char:EOLhyphen"/>versal Church, are every whit as much bound to all things in that Exhortation, as are the Sureties at the Font? Or, which comes all to one, Whatever be the Command or Threat after the Office, that all that, whatsoever it be, belongs to the whole Church, &amp; not only to its representatives, the God<g ref="char:EOLhyphen"/>fathers and God-mothers then present? And this</p>
+               <p>
+                  <hi>First,</hi> Because, whereas the Exhortation has no<g ref="char:EOLhyphen"/>thing in it, but fraternal Correption and Admoni<g ref="char:EOLhyphen"/>tion; That these do alike concern all Christians, what Christian dares make any the least doubt?</p>
+               <p>
+                  <hi>Secondly,</hi> Because, whereas within Fourty years after St. <hi>John,</hi> we find that God-fathers, and God<g ref="char:EOLhyphen"/>mothers were Instituted, we rightly conceive al<g ref="char:EOLhyphen"/>so, to this end they were not instituted, that for themselves, every one in his own person, should hear and answer, But that they should be the Repre<g ref="char:EOLhyphen"/>sentatives of the whole Church; and that they should for that turn be Her Mouth and Eares; And so that all Believers whatsoever, do both hear and speak and undertake, what they, standing in their steed do hear, and speak, and undertake. But all that we see to be nothing else but what, as occasion may be, every believer is to attempt and pursue. For what believer dares plead himself exempt from any little word of the Lord Jesus Christ? and by name from that, <hi>But thou when thou art converted, strengthen thy Bretdren? Luke</hi> 22.</p>
+               <p>
+                  <hi>Thirdly,</hi> Because the Office of a God-father, or God-mother has in it the sense and signification, not so much of Burden, as Honour; and not so much of any new Care imposed (for as but now was said, nothing new is imposed) as of a new Occasion
+<pb n="11" facs="tcp:173151:11"/> to do good gotten and obtained; when namely, up<g ref="char:EOLhyphen"/>on any occasion offered, the God-father many times makes his Surety-ship a fit occasion to monish the Infant, now come to age and understanding.</p>
+               <p>Add hereunto, that, as all other Appointments and Usages of the Primitive Church, so this also, may we observe, has this for its main end, the increase of Charity and Neighborhood, not of Costs and Burthens; (whilest namely, both the Intreated and Intreators become very obliging to one another; these, that they ask nothing else but what without violation of Religion and Civility ought not to be denied them; and those, that they readily lay hold upon the Occasson of increasing Christian love.) And to what should Christians so earnestly bend themselves, as to the sovereign end of all Christianity? that is, <hi>To Charity, out of a pure Heart, and good Conscience, and Faith un<g ref="char:EOLhyphen"/>feigned?</hi> 1 Tim. 1.</p>
+               <p>But now, if through the changing of Habitations, or any other irresistible Providence, any one can<g ref="char:EOLhyphen"/>not admonish and instruct his little one, as he most desireth; then let him well remember, that those Duties do lie upon all other Christians that are at hand, and not at all upon him: Because in that case the performance of them is to him <hi>morally</hi> im<g ref="char:EOLhyphen"/>possible.]</p>
+               <p>
+                  <label>Q</label>
+                  <hi>Why was the Sacrament of the Lords Supper or<g ref="char:EOLhyphen"/>dained?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>For the continual remembrance of the Sacrifice of the Death of Christ, and of the Benefits which we re<g ref="char:EOLhyphen"/>ceive therehy.</hi> [Prolepsis. Not that <hi>remembring</hi> is the one only end of the Ordinance, (for there are many other, and those expressed in the very Scriptures:
+<pb n="12" facs="tcp:173151:12"/> and among others these three, 1. That we annun<g ref="char:EOLhyphen"/>tiate and shew unto the Father the death of our Lord until he come, 1 <hi>Cor.</hi> 11. 26. that is, till the Lord Jesus come to judge the quick and the dead; that is to say, so long as this world endures. That in every of our Communions we offer unto God that <hi>one</hi> and the same Offering, which <hi>to him</hi> our Lord himself <hi>once</hi> offered upon the Cross, <hi>Heb.</hi> 10. 14. And this (as in that very Text) the Apostle teacheth, to our Perfection, <hi>i. e.</hi> to our Justification, and Salvation, the only perfection and consumma<g ref="char:EOLhyphen"/>tion of Believers. For in this Service we, though not in audible, yet visible words, do tell God to his face, that he must needs forgive and save all us penitent Believers. Because to this end, by his own Covenant, the Lord Jesus by his death hath made our peace and full attonement; and this very death that we in that way which Christ hath taught us, do now offer and present unto him. But this, whe<g ref="char:EOLhyphen"/>ther Sacrifice, or manner of offering, he at any rate ought not to dispise, <hi>&amp;c.</hi> 2. That all the Merits of the Body and Bloud of Christ, may in the very act of receiving be applied and clapt close to the Souls of all worthy Receivers; as taught we are, not only in the Answer to the third Question, <hi>verily and in<g ref="char:EOLhyphen"/>deed received</hi> by the faithful <hi>in</hi> the Lords Supper, but also in 1 <hi>Cor.</hi> 10. 16. <hi>The Cup of blessing which we bless, is it not the Communion of the Bloud of Christ? The Bread which we break, is it not the Communion of the Body of Christ?</hi> as if he should have said, with<g ref="char:EOLhyphen"/>out all doubt it is. And 3ly, That the unity and communion of Believers may be kept whole and entire: 1 <hi>Cor.</hi> 10. 17. <hi>For we being many, are one Bread, and one Body—</hi>and elsewhere often:) As
+<pb n="13" facs="tcp:173151:12"/> then we began to say, in this Answer the Church seems thus to have spoken, not that it conceived <hi>remembring</hi> to be the whole and only end of the Ordinance, but because it saw that to be the end which in the <hi>very</hi> Institution was expresly mentio<g ref="char:EOLhyphen"/>ned (for it is the business of a Catechism to propose not all things, but the easiest and most undoubted.)</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is the outward part or sign of the Lords Supper?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Bread and Wine, which the Lord hath com<g ref="char:EOLhyphen"/>manded to be received.</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is the inward part or thing signified?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>The Body and Bloud of Christ,</hi> [that is, the Merits of Christs broken Body and shed Bloud] <hi>which are verily and indeed</hi> [these words note we well] <hi>taken and received by the Faithful</hi> [that is, by all those who are so faithful to Christ and Con<g ref="char:EOLhyphen"/>science, as not to allow themselves in any sin] <hi>in the Lords Supper.</hi> [That is, in the very act of com<g ref="char:EOLhyphen"/>municating are applied to the Souls of all such, by no other power then that very sufficient one, name<g ref="char:EOLhyphen"/>ly, the power and virtue of the Institution, Word, and Promise of Jesus Christ himself.]</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What are the Benefits whereof we are partakers thereby?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>The strengthening and refreshing of our Souls by the Body and Bloud of Christ, as our Bodies are by the Bread and Wine:</hi> [that is▪ Even as when we have fasted till the hour of receiving (as was usual to all devout persons; not as though they held such fast<g ref="char:EOLhyphen"/>ing to be absolutely necessary, but because they never knew the godly to have drawn near unto God in so solemn a manner, without some such self-de<g ref="char:EOLhyphen"/>nial, previous and preparatory) as, I say, strictly ab<g ref="char:EOLhyphen"/>staining
+<pb n="14" facs="tcp:173151:13"/> from all meat and drink till the time of re<g ref="char:EOLhyphen"/>ceiving, we find then, by the Bread and Wine received, that our Spirits are raised, and our Bodies refreshed; and to speak generally, after every pretty long abstinence and wearying of the body, we find and feel, that upon wholesome food re<g ref="char:EOLhyphen"/>ceived, we do become more ready and able to go through with the duties and businesses of common life; so also if <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orthily, and as is fit we have communica<g ref="char:EOLhyphen"/>ted] <note place="margin">
+                     <hi>Article</hi> 25.—by the which he doth work <hi>invisibly</hi> in us.</note>
+                  <hi>by the Body and Bloud of Christ,</hi> that is, by certain se<g ref="char:EOLhyphen"/>cret and silent, yet strong and effectual influences from the death and resurrection of Jesus Christ <hi>[Phil.</hi> 3. 10, 11. <hi>Heb.</hi> 9. 14. <hi>Acts</hi> 3. 26, &amp;c.] <hi>slipt and put into</hi> our Souls, as at other times, &amp; by other waies, so especially <hi>by and after</hi> the use of the Communion, we shall observe our selves be<g ref="char:EOLhyphen"/>come more erect and resolute to caring, doing, and executing all businesses of our spiritual life, then if at this time we had not communicated. So that in this point, the Church may be thought to hold-up <note place="margin">☞</note> unto us the certain Rule for discerning and judging of our selves, whether we have worthily received or not; for if worthily we have used these Myste<g ref="char:EOLhyphen"/>ries, for certain we shall observe our selves more resolute and earnest to caring, doing, and execu<g ref="char:EOLhyphen"/>ting all businesses of our spiritual life, as to the ordinary and most constant tenour of it, then other<g ref="char:EOLhyphen"/>wise sure we had been.]</p>
+               <p>
+                  <label>Q.</label>
+                  <hi>What is required of them who come to the Lords Supper?</hi>
+               </p>
+               <p>
+                  <label>A.</label>
+                  <hi>To examine themselves, whether they repent them truly of their former sins, stedfastly purposing to</hi>
+                  <pb n="15" facs="tcp:173151:13"/>
+                  <hi>lead a new life;</hi> [for this unfeigned and setled pur<g ref="char:EOLhyphen"/>pose of heart, is the certain and infallible proof of true penitence] <hi>have a lively faith in Gods mercy through Christ;</hi> [that is, and whether, secondly, they be fully perswaded in themselves, that all their sins whatsoever, shall be pardoned to them <hi>in Christ,</hi> that is, <hi>in the way of the Gospel,</hi> compre<g ref="char:EOLhyphen"/>hending in it as Repentance, Faith, and Charity, so also the due and constant use of the Sacraments] <hi>to<g ref="char:EOLhyphen"/>gether with a thankful remembrance of his death</hi> [for this thankful, tender, and melting remembrance of the love of Christ, is the most certain proof, and sign of true faith.] <hi>And</hi> (thirdly) <hi>be in charity with all men</hi> [even with profess'd Enemies also, so far forth, as unto them <hi>to pray &amp; pull</hi> all the good things of this, as well as of the life to come; for these three, Repentance, Faith, and Charity, <hi>being rightly understood,</hi> are <hi>the all</hi> of Christian Religion. But now of this summary, the shotter sum is that of <hi>David,</hi> Psal. 26. 6. <hi>I will wash my hands in In<g ref="char:EOLhyphen"/>nocency, O Lord, and so will I go to thine Altar:</hi> that is, allowing my self in no Sin; so, and such, I will, with greatest confidence and profit, partake of thy dreadful Mysteries.]</p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
